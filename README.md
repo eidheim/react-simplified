@@ -1,0 +1,1 @@
+**_This project has moved to: https://gitlab.com/eidheim/react-simplified._**
